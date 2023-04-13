@@ -184,10 +184,5 @@ Gulp: `gulp server`
 
 * Run BrowserSync static server
 
+## Yujie Hu Test
 
-## Live reload
-
-This project uses BrowserSync as static server with enabled and configured live reload option.
-
-## License
-[MIT](https://github.com/website-templates/portfolio_one-page-template/blob/master/LICENSE.md)
